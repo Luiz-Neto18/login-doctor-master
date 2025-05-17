@@ -18,4 +18,3 @@
 
 #lembre que tudo isso deve ser escrito no terminal: Ver>Terminal
 
-pronto, ele já enviou, agora tu vai ter que fazr isso no github quando terminar aqui,
